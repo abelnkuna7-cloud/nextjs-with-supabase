@@ -6,3 +6,6 @@ Disallow:
 
 User-agent: *
 Allow: /
+
+Sitemap: https://store.cossanexusholdings.co.za/sitemap.xml
+Sitemap: https://store.cossanexusholdings.co.za/sitemap-discovery.xml
